@@ -37,3 +37,4 @@
 |    33  | Nivedita Anand </br> Nikhil Kalra </br> Arushi Roy </br> Prateek Bahrani </br> Varshith | Food Consumption and Sales of a Cafe | [Link](https://youtu.be/WBePIUD7jXc) |
 |    34  | Aditya S </br> Shikhar Agrawal </br> Nikhil Burdak </br> Anishka Kesaria | Crime and Economy - Relating sconomic statistics with crime | [Link](https://www.canva.com/design/DAFf6fwxXss/Bg88BBFpeTfAN3pnBsH5lw/view) |
 |    35  | K SANJEEVA REDDY </br> G V SAITEJA | Analysis of Election in India | [Link](https://drive.google.com/file/d/1-KzTDqUajHp46lVwZty9n_2yaErB5HbW/view?usp=drivesdk) | 
+|    36  | MANAN </br> KADEL | COVID-19 | [Link](https://youtu.be/4kdHO5wn1Yo) | 
